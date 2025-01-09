@@ -79,6 +79,53 @@ Atualmente, o controle de inventário está sendo feito manualmente em planilhas
 
 ![image](https://github.com/user-attachments/assets/ff86e644-74dd-42c3-a3f7-5ad5f5217ad2)
 
+<br>
 
+:heavy_check_mark: `3 - Atualizar Produto` 
+
+<p align="center">Escolha a opção 3 para Atualiza um Produto:</p>
+
+ - Digite o ID do produto que deseja atualizar
+ - Escolha o campo que você deseja atualizar no produto
+ - Atualize o campo escolhido
+ - Digite 's' para atualizar outro campo ou 'n' para encerrar a atualização
+ - Produto Atualizado com sucesso
+
+![image](https://github.com/user-attachments/assets/6d09e03a-8650-4444-9eae-143ee27b8333)
+
+<br>
+
+:heavy_check_mark: `4 - Excluir Produto` 
+
+<p align="center">Escolha a opção 4 para Excluir um Produto:</p>
+
+ - Digite o ID do produto que deseja excluir
+ - Confirme com 's' para excluir o produto ou 'n' para não excluir
+
+![image](https://github.com/user-attachments/assets/a97f55ed-3780-42d6-a621-ad2d285acd85)
+
+<br>
+
+:heavy_check_mark: `5 - Buscar Produto` 
+
+<p align="center">Escolha a opção 5 para Buscar um Produto pelo ID ou nome:</p>
+
+ - Digite 1 se deseja buscar o produto pelo ID ou 2 se deseja buscar pelo nome
+ - Digite o ID se tiver escolhido a opção 1
+ - Digite o nome do produto se tiver escolhido a opção 2
+
+![image](https://github.com/user-attachments/assets/68a26028-b9b0-4202-9f01-97a3ce366539)
+
+<br>
+
+:heavy_check_mark: `0 - Sair` 
+
+<p align="center">Escolha a opção 0 para encerrar o programa</p>
+
+![image](https://github.com/user-attachments/assets/8470dad8-495d-4e1e-91f8-6aca99e914f2)
 
 </p>
+
+## Desenvolvedor
+
+[<img src="https://avatars.githubusercontent.com/u/110785400?v=4" width=115><br><sub>Thiago De Sena</sub>](https://www.linkedin.com/in/thiago-de-sena-ab5b09179/)
