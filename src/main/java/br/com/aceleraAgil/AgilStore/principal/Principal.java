@@ -146,9 +146,9 @@ public class Principal {
             return;
         }
         String continuar = "s";
-        System.out.println("continuar = "+continuar);
+
         while (continuar.equals("s") || continuar.equals("S")){
-            System.out.println("continuar dentro while = "+continuar);
+
             System.out.println("O que você deseja atualizar no produto?");
             System.out.println("1 - Nome");
             System.out.println("2 - Categoria");
@@ -190,7 +190,7 @@ public class Principal {
 
             System.out.println("Quer Atualizar outro campo desse Produto?(s/n) ");
             continuar = scanner.nextLine().toLowerCase();
-            System.out.println("continuar final while = "+continuar);
+
         }
 
 
