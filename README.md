@@ -40,6 +40,12 @@ Atualmente, o controle de inventário está sendo feito manualmente em planilhas
  - Exibir todas as informações detalhadas do produto encontrado.
  - Exibir mensagem apropriada se nenhum produto for encontrado.
 
+## Vídeo De Funcionamento
+
+<a href="https://www.linkedin.com/posts/thiago-de-sena-developer_java-aceleradoraagil-desafio-activity-7283224837097967616-R8qF?utm_source=share&utm_medium=member_desktop"> Click aqui para assistir o Vídeo</a>
+
+![image](https://github.com/user-attachments/assets/eee3ff2e-bdfd-4b3e-ab90-1db1b7301ba3)
+
 
 ## Funcionamento
 
@@ -125,6 +131,7 @@ Atualmente, o controle de inventário está sendo feito manualmente em planilhas
 ![image](https://github.com/user-attachments/assets/8470dad8-495d-4e1e-91f8-6aca99e914f2)
 
 </p>
+
 
 ## Desenvolvedor
 
